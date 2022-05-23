@@ -1,0 +1,7 @@
+D:\C#\modul5_labpv2\modul5_labpv2\obj\Debug\modul5_labpv2.csprojResolveAssemblyReference.cache
+D:\C#\modul5_labpv2\modul5_labpv2\obj\Debug\modul5_labpv2.MainForm.resources
+D:\C#\modul5_labpv2\modul5_labpv2\obj\Debug\modul5_labpv2.csproj.GenerateResource.Cache
+D:\C#\modul5_labpv2\modul5_labpv2\bin\Debug\modul5_labpv2.exe
+D:\C#\modul5_labpv2\modul5_labpv2\bin\Debug\modul5_labpv2.pdb
+D:\C#\modul5_labpv2\modul5_labpv2\obj\Debug\modul5_labpv2.exe
+D:\C#\modul5_labpv2\modul5_labpv2\obj\Debug\modul5_labpv2.pdb
